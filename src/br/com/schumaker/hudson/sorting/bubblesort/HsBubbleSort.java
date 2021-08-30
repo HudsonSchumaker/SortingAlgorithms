@@ -8,7 +8,7 @@ import java.util.List;
  * @version 2.7.11
  * @since 18/06/2007
  */
-public class HsBubbleSort {
+public final class HsBubbleSort {
 
     public HsBubbleSort() {
     }
