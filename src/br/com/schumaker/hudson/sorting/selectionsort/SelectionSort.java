@@ -6,7 +6,7 @@ package br.com.schumaker.hudson.sorting.selectionsort;
  */
 public class SelectionSort {
 
-    public HsSelectionSort() {
+    public SelectionSort() {
     }
 
     public void selectionSort(int[] arr) {
