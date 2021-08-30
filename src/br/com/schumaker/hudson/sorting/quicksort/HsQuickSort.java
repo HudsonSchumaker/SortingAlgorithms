@@ -3,7 +3,6 @@ package br.com.schumaker.hudson.sorting.quicksort;
 import java.util.List;
 
 /**
- *
  * @author Hudson Schumaker
  */
 public class HsQuickSort {
