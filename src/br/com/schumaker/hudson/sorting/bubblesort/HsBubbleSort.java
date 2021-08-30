@@ -5,8 +5,6 @@ import java.util.List;
 /**
  *
  * @author Hudson Schumaker
- * @version 2.7.11
- * @since 18/06/2007
  */
 public final class HsBubbleSort {
 
