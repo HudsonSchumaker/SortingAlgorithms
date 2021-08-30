@@ -4,7 +4,7 @@ package br.com.schumaker.hudson.sorting.selectionsort;
  *
  * @author Hudson Schumaker
  */
-public class HsSelectionSort {
+public class SelectionSort {
 
     public HsSelectionSort() {
     }
