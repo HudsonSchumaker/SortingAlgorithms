@@ -7,7 +7,7 @@ import java.util.List;
  */
 public class QuickSort {
 
-    public HsQuickSort() {
+    public QuickSort() {
     }
 
     public void sort(int[] list) {
