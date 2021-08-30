@@ -6,7 +6,7 @@ package br.com.schumaker.hudson.sorting.insertionsort;
  */
 public class InsertionSort {
 
-    void insertionSort(int[] arr) {
+   public void insertionSort(int[] arr) {
         int i, j, newValue;
         for (i = 1; i < arr.length; i++) {
             newValue = arr[i];
