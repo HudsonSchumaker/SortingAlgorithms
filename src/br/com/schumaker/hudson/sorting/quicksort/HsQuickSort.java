@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * @author Hudson Schumaker
  */
-public class HsQuickSort {
+public class QuickSort {
 
     public HsQuickSort() {
     }
