@@ -3,10 +3,8 @@ package br.com.schumaker.hudson.sorting.insertionsort;
 /**
  *
  * @author Hudson Schumaker 
- * IPNFUERJ
- *
  */
-public class HsInsertionSort {
+public class InsertionSort {
 
     void insertionSort(int[] arr) {
         int i, j, newValue;
