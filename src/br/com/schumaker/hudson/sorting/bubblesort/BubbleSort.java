@@ -20,7 +20,7 @@ public final class BubbleSort {
             j++;
             for (int i = 0; i < list.length - j; i++) {
                 if (list[i] > list[i + 1]) {
-                    tmp = list[i];
+                    temp = list[i];
                     list[i] = list[i + 1];
                     list[i + 1] = tmp;
                     swapped = true;
