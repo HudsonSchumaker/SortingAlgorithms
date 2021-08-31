@@ -22,7 +22,7 @@ public final class BubbleSort {
                 if (list[i] > list[i + 1]) {
                     temp = list[i];
                     list[i] = list[i + 1];
-                    list[i + 1] = tmp;
+                    list[i + 1] = temp;
                     swapped = true;
                 }
             }
