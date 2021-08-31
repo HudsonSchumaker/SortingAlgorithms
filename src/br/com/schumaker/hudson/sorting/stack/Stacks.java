@@ -1,3 +1,5 @@
+package br.com.schumaker.hudson.sorting.stack;
+
 import java.util.Stack;
 
 public final class Stacks {
