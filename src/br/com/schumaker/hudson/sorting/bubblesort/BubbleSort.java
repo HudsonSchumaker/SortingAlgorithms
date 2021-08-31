@@ -8,7 +8,7 @@ import java.util.List;
  */
 public final class BubbleSort {
 
-    public HsBubbleSort() {
+    public BubbleSort() {
     }
 
     public void bubbleSort(int[] list) {
