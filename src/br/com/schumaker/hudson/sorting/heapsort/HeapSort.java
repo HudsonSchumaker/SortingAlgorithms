@@ -1,5 +1,9 @@
 package br.com.schumaker.hudson.sorting.heapsort;
 
+/**
+ *
+ * @author Hudson Schumaker
+ */
 public final class HeapSort {
 
     private HeapSort() {
