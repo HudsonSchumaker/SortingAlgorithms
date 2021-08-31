@@ -10,7 +10,7 @@ public final class HeapSort {
         throw new AssertionError("Cannot be instantiated");
     }
 
-    /* Heap sort for primitives (e.g., integers) */
+    // Heap sort for primitives (e.g., integers)
     public static void sort(int[] arr) {
 
         if (arr == null) {
