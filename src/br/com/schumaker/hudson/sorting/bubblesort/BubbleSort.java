@@ -6,7 +6,7 @@ import java.util.List;
  *
  * @author Hudson Schumaker
  */
-public final class HsBubbleSort {
+public final class BubbleSort {
 
     public HsBubbleSort() {
     }
