@@ -14,7 +14,7 @@ public final class BubbleSort {
     public void bubbleSort(int[] list) {
         boolean swapped = true;
         int j = 0;
-        int tmp;
+        int temp;
         while (swapped) {
             swapped = false;
             j++;
