@@ -7,7 +7,7 @@ package br.com.schumaker.hudson.sorting.heapsort;
 public final class HeapSort {
 
     private HeapSort() {
-        throw new AssertionError("Cannot be instantiated");
+        throw new AssertionError("Cannot be instantiated.");
     }
 
     // Heap sort for primitives
