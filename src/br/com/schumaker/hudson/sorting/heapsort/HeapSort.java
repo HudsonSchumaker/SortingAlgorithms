@@ -14,7 +14,7 @@ public final class HeapSort {
     public static void sort(int[] arr) {
 
         if (arr == null) {
-            throw new IllegalArgumentException("Array cannot be null.");
+            throw new IllegalArgumentException("Array cannot be null");
         }
 
         if (arr.length == 0) {
