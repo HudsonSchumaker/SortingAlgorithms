@@ -7,18 +7,18 @@ package br.com.schumaker.hudson.sorting.heapsort;
 public final class HeapSort {
 
     private HeapSort() {
-        throw new AssertionError("Cannot be instantiated");
+        throw new AssertionError("Cannot be instantiated.");
     }
 
     // Heap sort for primitives
     public static void sort(int[] arr) {
 
         if (arr == null) {
-            throw new IllegalArgumentException("Array cannot be null");
+            throw new IllegalArgumentException("Array cannot be null.");
         }
 
         if (arr.length == 0) {
-            throw new IllegalArgumentException("Array length cannot be 0");
+            throw new IllegalArgumentException("Array length cannot be 0.");
         }
 
         int n = arr.length;
