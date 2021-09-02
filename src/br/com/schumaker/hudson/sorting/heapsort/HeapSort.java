@@ -18,7 +18,7 @@ public final class HeapSort {
         }
 
         if (arr.length == 0) {
-            throw new IllegalArgumentException("Array length cannot be 0.");
+            throw new IllegalArgumentException("Array length cannot be 0");
         }
 
         int n = arr.length;
