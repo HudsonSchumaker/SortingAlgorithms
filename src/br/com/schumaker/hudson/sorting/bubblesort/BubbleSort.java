@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  *
- * @author Hudson Schumaker
+ * @author Hudson Schumaker  
  */
 public final class BubbleSort {
 
